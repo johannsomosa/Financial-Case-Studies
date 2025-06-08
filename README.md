@@ -1,4 +1,4 @@
-# Case studies of financial reports for public companies
+# Financial Analysis & Forecasting Case Study Portfolio
 I am creating a collection of case studies focused on the financial health of public companies. These case studies serve a dual purpose. First, they provide managers and analysts with clear insights into each company's foundational financial metrics, helping them better understand business performance and underlying trends. Second, they offer transparency into my reasoning and approach to forecasting future performance. As an aspiring financial analyst, this project also serves as a learning tool—allowing me to deepen my skills by applying analytical techniques to real-world scenarios and continuously refining my forecasting abilities.
 
 ## Included Concepts:
