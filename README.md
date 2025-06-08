@@ -1,18 +1,5 @@
 # Case studies of financial reports for public companies
-The case studies is 
-
-
-# Problem Statement
-The COVID-19 pandemic triggered widespread layoffs across various industries, significantly impacting companies, employees, and economic stability. Analyzing these layoffs is crucial for understanding the underlying patterns, identifying the most affected sectors, and examining the trends over time.
-
-This project focuses on exploratory data analysis (EDA) of layoffs during COVID-19 using SQL to uncover insights from a dataset containing information on 1,628 companies, including prominent organizations like Google, Meta, Amazon, and Microsoft.
-
-Key objectives include:
-
-1. Cleaning and preprocessing the dataset to ensure data accuracy and consistency.
-2. Identifying the top 5 companies with the highest layoffs.
-3. Analyzing annual layoff trends from 2020 to 2023 to detect macroeconomic patterns.
-4. Exploring sector-wise impacts and company-specific characteristics that contributed to layoffs.
+I am creating a collection of case studies focused on the financial health of public companies. These case studies serve a dual purpose. First, they provide managers and analysts with clear insights into each company's foundational financial metrics, helping them better understand business performance and underlying trends. Second, they offer transparency into my reasoning and approach to forecasting future performance. As an aspiring financial analyst, this project also serves as a learning tool—allowing me to deepen my skills by applying analytical techniques to real-world scenarios and continuously refining my forecasting abilities.
 
 ## Included Concepts:
 Finance:
